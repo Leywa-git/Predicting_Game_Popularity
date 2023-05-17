@@ -1,5 +1,5 @@
 # Predicting_Game_Popularity
-The goal of this data science project is to use machine learning to create prediction models of upcoming games popularity.
+The goal of this data science project is to use machine learning to create prediction models of upcoming games popularity. Analysis and prediction are carried out within the Steam platform.
 # Navigation
 Data_PreProcessing.ipynb -> Dataset_Analysis.ipynb -> Model.ipynb -> Predictions_Dataset.ipynb -> Predictions.ipynb
 # Directories
